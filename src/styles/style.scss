@@ -1,6 +1,6 @@
 @use 'hero';
-@use '/src/styles/components/infos_bar';
-@use '/src/styles/components/buttons';
+@use './components/infos_bar';
+@use './components/buttons';
 @use 'event';
 
 * {
