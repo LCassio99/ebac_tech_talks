@@ -1,1 +1,1 @@
-console.log('Fala Boy')
+AOS.init();
